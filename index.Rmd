@@ -1,7 +1,7 @@
 --- 
 title: "ModernDive"
 subtitle: "An Introduction to Statistical and Data Sciences via R"
-author: "Chester Ismay and Albert Y. Kim"
+author: "Chester Ismay and Albert Y. Kim STARRING FRANK MCGRADE"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
